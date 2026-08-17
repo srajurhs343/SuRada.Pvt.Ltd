@@ -27,7 +27,7 @@ const Home = () => {
           2. WELCOME TITLE
          ------------------------------------------------- */}
       <h1 className="text-3xl md:text-4xl font-extrabold mt-8">
-        Welcome to SuRada 
+        Welcome to SuRada Fish 
       </h1>
       <p className="text-gray-600 mt-2 text-lg">
         Fresh, Quality, Trusted — Delivered to Retail & Wholesale Buyers
